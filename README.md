@@ -98,8 +98,8 @@ The relational schema represents agency operations:
 ### 1. Clone & Run
 
 ```bash
-git clone https://github.com/your-username/agencyflow.git
-cd agencyflow
+git clone https://github.com/ddd2221/b2b-client-portal.git
+cd b2b-client-portal
 docker compose up --build
 ```
 
